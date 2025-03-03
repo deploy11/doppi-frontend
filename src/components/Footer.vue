@@ -7,9 +7,9 @@
       <div class="footer-links">
         <h3>Contact Us</h3>
         <ul>
-          <li><i class="fa fa-phone"></i> <a href="tel:+998903274571">+998 99 346 0371</a></li>
-          <li><i class="fa fa-envelope"></i> <a href="mailto:jumabeknarziqulov2011@gmail.com">deploygit11@gmail.com</a></li>
-          <li><i class="fa fa-map-marker"></i> Sirdaryo Vil Boyovut.T T.Latipov</li>
+          <li><i class="fa fa-phone"></i> <a href="tel:+998903274571">+998 90 020 91 19</a></li>
+          <li><i class="fa fa-envelope"></i> <a href="mailto:iibragimov.ix@gmail.com">iibragimov.ix@gmail.com</a></li>
+          <li><i class="fa fa-map-marker"></i>Sirdayo viloyati Guliston tuman ishonch Mfy 1 A uy</li>
         </ul>
       </div>
       <div class="footer-socials">
@@ -21,7 +21,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <p>&copy; 2024 Guliston IMI. Barcha huquqlar himoyalangan</p>
+      <p>&copy; 2025 Guliston IMI. Barcha huquqlar himoyalangan</p>
     </div>
   </footer>
 </template>
