@@ -36,7 +36,7 @@
 
             <!-- Google Map -->
             <div class="map-container">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3033.1216987001444!2d68.7900154!3d40.516801099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38b20735aa10e07b%3A0x6948b34fbde8a891!2sSirdaryo%20Ixtisoslashgan%20san&#39;at%20maktabi%20internati!5e0!3m2!1sru!2s!4v1741025400176!5m2!1sru!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1882.103405854999!2d68.7679246315908!3d40.52725561656064!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38b207f0b469ddf5%3A0xe485491e8adebae6!2sSirdaryo-Qorako&#39;l%20maktab%20internati!5e1!3m2!1sru!2s!4v1741096301779!5m2!1sru!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
 
